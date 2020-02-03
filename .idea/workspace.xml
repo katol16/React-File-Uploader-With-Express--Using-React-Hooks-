@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e0db9bb-8810-456e-b398-2647077de97c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +15,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Wzg7knWwY68KvxbVLQcaaCOHIT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +53,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580157672006</updated>
       <workItem from="1580157673255" duration="4461000" />
-      <workItem from="1580586478569" duration="3075000" />
+      <workItem from="1580586478569" duration="4091000" />
+      <workItem from="1580637163542" duration="8438000" />
+      <workItem from="1580754408369" duration="4340000" />
     </task>
     <servers />
   </component>
@@ -74,14 +67,15 @@
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="2192" y="952" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1580160949830" />
-    <state x="2242" y="970" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580587922490">
+    <state x="2242" y="970" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580637714075">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
-    <state x="2242" y="970" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1580587922490" />
-    <state x="2115" y="1030" key="com.intellij.ide.util.TipDialog" timestamp="1580586496965">
-      <screen x="1920" y="0" width="1080" height="1920" />
+    <state x="2242" y="970" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1580637714075" />
+    <state x="402" y="592" key="com.intellij.ide.util.TipDialog" timestamp="1580754429533">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="2115" y="1030" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1580586496965" />
+    <state x="2115" y="1030" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1580637164439" />
+    <state x="402" y="592" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1080.1920@67.27.1853.1053" timestamp="1580754429533" />
     <state x="2184" y="1084" width="540" height="238" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580160798940">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
